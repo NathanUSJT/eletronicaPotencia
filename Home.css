@@ -1,13 +1,13 @@
 a.cabecalho {
-  color: black; /* Cor do texto */
-  text-decoration: underline; /* Sublinhado */
-  list-style: none; /* Remover marcação de lista */
-  display: inline-block; /* Tornar os links distribuídos horizontalmente */
-  margin-right: 20px; /* Espaçamento entre os links (pode ajustar conforme necessário) */
+  color: black; 
+  text-decoration: underline; 
+  list-style: none;
+  display: inline-block;
+  margin-right: 20px; 
 }
 .cabecalho-container {
-  background-color: lightblue; /* Cor de fundo desejada */
-  padding: 10px; /* Adicione padding para espaço interno */
+  background-color: lightblue;
+  padding: 10px; 
 }
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/intro.jpeg");
